@@ -1,2 +1,3 @@
 # repo1
-b1 223
+modify b1 22
+modify b2 222
